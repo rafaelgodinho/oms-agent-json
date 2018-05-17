@@ -1,2 +1,2 @@
 # oms-agent-json
-Docker Image to deploy OMS Agent reading from a JSON source
+Docker Image to monitor a JSON endpoint using the Operations Management Suite (OMS).
